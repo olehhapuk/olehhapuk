@@ -1,6 +1,6 @@
 # Fullstack JS/TS Developer 🧑‍🔬
 
-## My project
+## My projects
 
 ### Electro4ort(In development)
 
